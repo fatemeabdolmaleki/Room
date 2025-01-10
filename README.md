@@ -1,9 +1,9 @@
 # Room
 Parallax Project
 
- ![viewfinal](https://github.com/user-attachments/assets/37b17444-960f-42cf-97b6-a47a41189353)
- 
 - [Demo Project](https://room-zeta.vercel.app/)
+
+ ![viewfinal](https://github.com/user-attachments/assets/37b17444-960f-42cf-97b6-a47a41189353)
 
 - Developed by fateme abdolmaleki
 
